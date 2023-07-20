@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background-image: url("C:/Users/Amir/Pictures/download123.jpg");
+}
+p{
+    padding: 10px;
+}
+#email{
+    
+    padding: 10px;
+}
+#pass{
+
+    padding: 10px;
+}
+#btn{
+    margin-left: 65px;
+}
+#con{
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: black;
+}
+#username{
+    padding: 10px; 
+}
